@@ -1,9 +1,9 @@
-# 1.3.0 (2022-08-16)
+# 1.1.0 (2022-08-16)
 
 
 ### Features
 
-* added initail CLI files ([9baea63](https://github.com/Pradumnasaraf/OctoSearch-CLI/commit/9baea633df848e6bcac1081cfbeb90741f8b86da))
+* Added initial CLI files ([93f7a0f](https://github.com/Pradumnasaraf/OctoSearch-CLI/commit/93f7a0fc1b99689ebcfb831f6966985ce58fc40d))
 
 
 
