@@ -1,7 +1,7 @@
 {
   "name": "octosearch",
   "description": "Search all over GitHub on your CLI",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "license": "MIT",
   "main": "bin/main.js",
   "bin": {
