@@ -1,0 +1,49 @@
+{
+  "name": "octosearch",
+  "description": "Search all over GitHub on your CLI",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "bin/main.js",
+  "bin": {
+    "octosearch": "bin/main.js"
+  },
+  "author": {
+    "name": "Pradumna Saraf",
+    "email": "pradumnasaraf@gmail.com",
+    "url": "https://pradumnasaraf.co"
+  },
+  "keywords": [
+    "octoserach-cli",
+    "GitHub",
+    "octosearch"
+  ],
+  "files": [
+    "main.js",
+    "outputData.js",
+    "utils"
+  ],
+  "scripts": {
+    "format": "prettier --write \"./**/*.{js,json}\"",
+    "cli": "node ./bin/main.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "cli-alerts": "^1.2.2",
+    "cli-handle-error": "^4.4.0",
+    "cli-handle-unhandled": "^1.1.1",
+    "cli-meow-help": "^3.1.0",
+    "cli-welcome": "^2.2.2",
+    "meow": "^9.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradumnasaraf/OctoSearch-CLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pradumnasaraf/OctoSearch-CLI.git/issues"
+  }
+}
