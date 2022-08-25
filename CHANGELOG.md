@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/Pradumnasaraf/OctoSearch-CLI/compare/v1.1.1...v1.1.2) (2022-08-25)
+
+
+### Bug Fixes
+
+* bin config ([d7c731d](https://github.com/Pradumnasaraf/OctoSearch-CLI/commit/d7c731d14b1403568e979b8a24ff3809edae8de7))
+
+
+
 ## [1.1.1](https://github.com/Pradumnasaraf/OctoSearch-CLI/compare/v1.1.0...v1.1.1) (2022-08-16)
 
 
