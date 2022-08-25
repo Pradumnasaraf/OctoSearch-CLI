@@ -1,3 +1,12 @@
+## [1.1.3](https://github.com/Pradumnasaraf/OctoSearch-CLI/compare/v1.1.2...v1.1.3) (2022-08-25)
+
+
+### Bug Fixes
+
+* file property in package.json ([3f57ffd](https://github.com/Pradumnasaraf/OctoSearch-CLI/commit/3f57ffdb24d6f85213385de40770a1906d81681f))
+
+
+
 ## [1.1.2](https://github.com/Pradumnasaraf/OctoSearch-CLI/compare/v1.1.1...v1.1.2) (2022-08-25)
 
 
