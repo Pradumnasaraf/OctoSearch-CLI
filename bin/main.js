@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#! /usr/bin/env node
 
 const init = require("../utils/init");
 const cli = require("../utils/cli");

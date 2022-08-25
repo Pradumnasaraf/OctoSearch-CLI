@@ -17,7 +17,7 @@
   ],
   "files": [
     "main.js",
-    "outputData.js",
+    "data",
     "utils"
   ],
   "scripts": {
